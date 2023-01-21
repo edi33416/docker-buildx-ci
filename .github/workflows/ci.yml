@@ -31,5 +31,5 @@ jobs:
           #context: .
           file: docker/Dockerfile
           platforms: linux/amd64,linux/arm64
-          tags: pclp4/pclp4-milestone-2/rest_api:1.3.0
+          tags: gitlab.cs.pub.ro:5050/pclp4/pclp4-milestone-2/rest_api:1.3.0
           push: true
